@@ -2,8 +2,8 @@ var map_wrapper = 'map_container';
 var longitude = 45.124099;
 var latitude = -123.113634;
 var bubble_content =	"<p class='map_contacts'>" +
-						"<span>Address : </span>" +
-						"550 Hershell Hollow Road Johnson City, TN 37615" +
+						"<span>Direccion : </span>" +
+						"Direccion donde se encuentra ubicada la empresa" +
 						"</p>";
 
 
