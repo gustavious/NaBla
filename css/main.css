@@ -202,7 +202,7 @@
 .hero{
 	width: 100%;
 	height: 750px;
-	background: url('../img/hero.jpg') no-repeat 50% 50%;
+	background: url('../img/start.png') no-repeat 50% 50%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -210,7 +210,7 @@
 }
 
 .hero .caption{
-	margin-top: 140px;
+	margin-top: 0px;
 }
 
 .hero .caption h1.mean_cap{
@@ -224,9 +224,9 @@
 .hero .caption h2.sub_cap{
 	font-family: "lato-light", Helvetica, Arial, sans-serif;
 	font-weight: lighter;
-	font-size: 60px;
+	font-size: 50px;
 	color: #fff;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	line-height: 70px;
 	margin-bottom: 50px;
 }
